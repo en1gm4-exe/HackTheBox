@@ -1,4 +1,4 @@
- ![Banner](./images/Shell.jpg)
+ ![Banner](./Notes/images/Shell.jpg)
 
 # 🔧 **Type of Shells**
 
