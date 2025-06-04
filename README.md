@@ -17,23 +17,7 @@ The content in this repository is organized as follows:
 `HackTheBox/
 
 ![Structure](file_structure.png)
-├── Machines/
-│ ├── MachineName1/
-│ │   ├── images
-│ │   └── WriteUp.md
-│ └── MachineName2/
-│ │   ├── images
-│ │   └── WriteUp.md
-. .   .
-. .   .
-. .   .
-├── Notes/
-│ ├── Topic1/
-│ │   ├── images
-│ │   └── Note.md
-│ └── Topic2/
-│ │   ├── images
-│ │   └── Note.md`
+
 
 
 Each machine or challenge contains steps from initial recon to root/system or flag capture.
